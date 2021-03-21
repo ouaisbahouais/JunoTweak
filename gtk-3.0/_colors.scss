@@ -14,7 +14,7 @@ $_sidebar_color: if($variant == 'light', darken($main_dark_color, 3%), $main_dar
 
 // Primary colors
 $lime: #C3E88D;
-$red: #FF5370;
+$red: #863737;
 $orange: #F78C6C;
 $yellow: #FFCB6B;
 $purple: #C792EA;
@@ -22,11 +22,11 @@ $darkpurple: #bb80b3;
 $blue: #82AAFF;
 $cyan: #89DDFF;
 $slider: #7b7bbd;
-$teal: #00A9A5;
+$teal: #768D76;
 
 $selected_fg_color: #fefefe;
 $selected_bg_color: $teal;
-/*$selected_bg_color: #00e8c6;06d6a0*/
+/*$selected_bg_color: #768D76;06d6a0*/
 $selected_borders_color: darken($selected_bg_color, 10%);
 $borders_color: darken($main_dark_color, 5%);
 $borders_edge: if($variant == 'light', transparentize(white, 0.8), transparentize(white, 0.9));
