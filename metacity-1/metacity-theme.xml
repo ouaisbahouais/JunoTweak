@@ -14,7 +14,7 @@
 <constant name="C_titlebar_unfocused" value="#182023" />
 <constant name="C_border_focused" value="#182023" />
 <constant name="C_border_unfocused" value="#182023" />
-<constant name="C_title_focused" value="#B1C1B1" />
+<constant name="C_title_focused" value="#ECE6CB" />
 <constant name="C_title_unfocused" value="#93979f" />
 
 <constant name="C_wm_button_background" value="#fc2" />
